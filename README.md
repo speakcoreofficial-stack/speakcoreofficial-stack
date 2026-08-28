@@ -1,31 +1,27 @@
-# Hey there! 👋
+<h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
+<h3 align="center">A passionate Ai & SaaS developer for India</h3>
 
-I'm Ankit, an AI & SaaS developer who loves turning ideas into useful digital products.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=speakcoreofficial-stack&label=Profile%20views&color=0e75b6&style=flat" alt="speakcoreofficial-stack" /> </p>
 
-I design, build, and experiment with AI-powered applications, SaaS platforms, automation systems, and developer tools. I enjoy taking an idea from a simple concept and turning it into a working product that people can actually use.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=speakcoreofficial-stack" alt="speakcoreofficial-stack" /></a> </p>
 
-My main tech stack includes React, Next.js, TypeScript, Python, Supabase, REST APIs, and AI APIs. I also work with modern AI development tools such as Cursor, Lovable, n8n, and other no-code and low-code platforms that help me move from idea to prototype faster.
+- 🔭 I’m currently working on [PromptFlow](https://github.com/speakcoreofficial-stack/promptflow-ai-bf047338)
 
-My biggest interests are AI agents, SaaS products, AI automation, no-code builders, productivity tools, cybersecurity, and products that solve real-world problems.
+- 🌱 I’m currently learning **LLM and ML,C+ language**
 
-I like building across the entire product journey, from planning the idea and designing the interface to developing the backend, integrating APIs, testing features, and preparing the product for launch.
+- 👯 I’m looking to collaborate on [Jarvis](https://github.com/speakcoreofficial-stack/Jarvis)
 
-I’m especially interested in making AI useful beyond simple chatbots. I want to build systems that can understand tasks, automate workflows, analyze information, and help users complete real work with less effort.
+- 🤝 I’m looking for help with [Jarvis](https://github.com/speakcoreofficial-stack/Jarvis)
 
-I believe the fastest way to learn technology is to build. So I spend a lot of time experimenting with new frameworks, APIs, AI models, automation tools, and product ideas.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-I’m constantly working on new projects, improving existing products, and learning from things that fail. Not every idea becomes a business, but every project teaches me something that helps with the next one.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-My goal is simple: build software that is useful, scalable, and worth using.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=speakcoreofficial-stack&show_icons=true&locale=en&layout=compact" alt="speakcoreofficial-stack" /></p>
 
-Fun Facts:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=speakcoreofficial-stack&show_icons=true&locale=en" alt="speakcoreofficial-stack" /></p>
 
-* 🤖 AI and SaaS are my favorite areas to explore
-* 💻 I enjoy building products from scratch
-* 🚀 I love turning ideas into working prototypes
-* 🧠 I’m always learning new technologies
-* 🔧 I enjoy connecting APIs and automating workflows
-* 🌐 I like experimenting with modern web technologies
-* 📈 I’m interested in building products that can become real businesses
-* 🛠️ My favorite part of development is seeing an idea become a working product
-* 🧩 I enjoy exploring product ideas and challenging myself with difficult technical problems.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=speakcoreofficial-stack&" alt="speakcoreofficial-stack" /></p>
